@@ -28,7 +28,7 @@ npm react-native run-android
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/Screenshot_1705240173.png)
+<img src="assets/screenshots/Screenshot_1705240173.png" alt="Screenshot 1" width="200"/> <br>
 *Caption for Screenshot 1.*
 
 ## Download APK
