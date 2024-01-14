@@ -35,8 +35,7 @@ npm react-native run-android
 
 You can download the latest APK from the following link:
 
-[Download v1.0 APK](https://github.com/shamodhaSahan/Calculator_Mobile_Application_React_Native/releases/tag/v1.0/calculator-app.apk
-)
+[Download v1.0 APK](https://github.com/shamodhaSahan/Calculator_Mobile_Application_React_Native/releases/tag/v1.0)
 
 ## Contact
 
