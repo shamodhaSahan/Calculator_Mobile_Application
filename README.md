@@ -1,4 +1,7 @@
-# React Native Project: Calculator Mobile Application
+# Calculator Mobile Application
+
+### React Native Project
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
@@ -12,8 +15,7 @@
 
 ## Description
 
-This is a simple calculator. It is designed very simply with simple math methods and accurate ux.<br/>
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+This is a simple calculator. It is designed very simply with simple math methods and accurate ux.
 
 ## Table of Contents
 
